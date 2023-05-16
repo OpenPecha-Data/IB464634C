@@ -1,0 +1,18 @@
+id: IB464634C
+default_language: de
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:21.637700
+last_modified: 2023-01-04 11:30:21.637719
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  070E:
+    title: The Benefits of Saving Lives
+    base_file: 070E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
